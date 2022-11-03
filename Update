@@ -3,3 +3,5 @@ Add if two hand weapon has perk BoB when encounter Boss Mob
 Add if two hand weapon has perk OpenStrike when Mob HP > 75%
 Add if two hand weapon has perk Elite when encounter Elite
 Auto Switch weapon to right perks
+Warlord auto block dmg only work when health < 100
+Add more detail when dealing with fallen king
